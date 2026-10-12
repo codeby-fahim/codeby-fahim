@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/githubbanner.jpg" width="100%" alt="GitHub Banner" />
+  <img src="/banner.jpg" width="100%" alt="GitHub Banner" />
 </p>
 # Hi there, I'm Md Rakibul Islam Fahim 👋
 
