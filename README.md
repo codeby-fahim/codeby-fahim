@@ -1,7 +1,7 @@
 <!-- GitHub Profile README -->
 
 <p align="center">
-  <img src="./just.jpg" width="100%" alt="Rakibul Islam Fahim - GitHub Banner" />
+  <img src="./banner.png" width="100%" alt="Rakibul Islam Fahim - GitHub Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Rakibul Islam Fahim 👋</h1>
