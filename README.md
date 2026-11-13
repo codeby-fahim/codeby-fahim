@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <a href="https://my-portfolio-topaz-tau-78.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://my-portfolio-topaz-tau-78.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-173F35?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/md-rakibul-islam-fahim" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/md-rakibul-islam-fahim">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
